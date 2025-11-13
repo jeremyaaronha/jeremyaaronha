@@ -28,8 +28,16 @@ I'm Jeremy Herrera, a Software Development student passionate about creating pra
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
+
+## Projects
+
+I’ve developed several web projects for different businesses and purposes — mainly focused on helping **local businesses** establish an online presence through functional and visually appealing websites.  
+Some of my projects include presentation websites, small business platforms, and web applications designed to improve visibility and client interaction.
+
 ## Let's Connect!
 
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremyherreraarevalo/)
 
 Feel free to explore my repositories and projects. Thanks for visiting my profile! 
+
+
