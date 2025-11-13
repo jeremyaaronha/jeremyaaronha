@@ -30,6 +30,6 @@ I'm Jeremy Herrera, a Software Development student passionate about creating pra
 
 ## Let's Connect!
 
-[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com](https://www.linkedin.com/in/jeremyherreraarevalo/))
+[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com](https://www.linkedin.com/in/jeremyherreraarevalo/)]
 
 Feel free to explore my repositories and projects. Thanks for visiting my profile! 
