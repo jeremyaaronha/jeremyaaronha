@@ -5,7 +5,7 @@ Hello, GitHub! 👋
 I'm Jeremy Herrera, a Software Development student passionate about creating practical and efficient digital solutions. I enjoy building software and web applications, learning new technologies, and improving my programming and testing skills.
 
 ## About Me
-- 👨🏻‍🎓 I have a Web Development Associate.
+- 👨🏻‍🎓 I have a **Web Development Associate**.
 - 🎓 I'm currently studying **Software Development**.  
 - 💻 I’m learning about **Software development**, **databases**, and **software testing**.  
 - 🚀 My goal is to become a **full-stack developer** and keep growing my technical skills.  
@@ -14,9 +14,9 @@ I'm Jeremy Herrera, a Software Development student passionate about creating pra
 ## Technologies and Tools
 
 - **Languages & Frameworks:** JavaScript, HTML, CSS.  
-- **Backend & Databases:** Node.js, Express.js, MySQL (basic), SQL Server, REST APIs, C#.
+- **Backend & Databases:** Python, Node.js, Express.js, MySQL (basic), MySQL, MongoDB, PostgreSQL, REST APIs, C#, JSON / Fetch.
 - **Version Control & Tools:** Git, GitHub, Visual Studio Code, Postman.  
-- **Other Skills:** Software testing, responsive design, CRUD applications, MVC architecture
+- **Other Skills:** Software testing, responsive design, CRUD applications, Docker, Render.
 
 
 <div>
