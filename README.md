@@ -2,15 +2,13 @@
 
 Hello, GitHub! 👋  
 
-I'm Jeremy Herrera, a Software Development student passionate about creating practical and efficient digital solutions. I enjoy building software and web applications, learning new technologies, and improving my programming and testing skills.
+I'm Jeremy Herrera, a Software Development student who cares about creating practical and efficient digital solutions. 
 
 ## About Me
 - 👨🏻‍🎓 I have a **Web Development Associate**.
-- 🎓 I'm currently studying **Software Development**.  
-- 💻 I’m learning about **Software development**, **databases**, and **software testing**.  
-- 🚀 My goal is to become a **full-stack developer** and keep growing my technical skills.  
-- 🧠 Ask me about web technologies, basic databases, or testing processes.  
-
+- 🎓 I'm currently finalizing my **Software Development** bachelor's degree.  
+- 💻 I can help you with **Software and Web development**, **databases**, and **software testing**.
+- 
 ## Technologies and Tools
 
 - **Languages & Frameworks:** JavaScript, HTML, CSS.  
