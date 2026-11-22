@@ -1,9 +1,5 @@
 # Jeremy Herrera
 
-Hi everyone! 
-
-I'm Jeremy Herrera, a Software Development student who cares about creating practical and efficient digital solutions. 
-
 ## About Me
 * - 🎓 I have completed my Bachelor’s Degree in Software Development at Brigham Young University–Idaho (BYU-Idaho).
 * - 💻 I can help you with **Software and Web development**, **databases**, and **software testing**.
@@ -14,7 +10,6 @@ I'm Jeremy Herrera, a Software Development student who cares about creating prac
 * Backend & Databases: Python, Node.js, Express.js, MySQL (basic), MySQL, MongoDB, PostgreSQL, REST APIs, C#, JSON / Fetch, Supabase, Firebase.
 * Version Control & Tools: Git, GitHub, Visual Studio Code, Postman, Xcode, Wrangler.
 * Other Skills: Software testing, Docker, Render, Cloudflare Workers, OpenNext, AVFoundation.
-
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -33,8 +28,6 @@ I'm Jeremy Herrera, a Software Development student who cares about creating prac
     <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
-
-
 
 ## Projects
 
@@ -63,5 +56,3 @@ Technologies: Swift, SwiftUI, AVFoundation, AVAudioEngine, AVAudioSession, Fireb
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremyherreraarevalo/)
 
 Feel free to explore my repositories and projects. Thanks for visiting my profile! 
-
-
