@@ -1,7 +1,7 @@
 # Jeremy Herrera
 
 ## About Me
-* - 🎓 I have completed my Bachelor’s Degree in Software Development at Brigham Young University–Idaho (BYU-Idaho).
+* - 🎓 Bachelor’s Degree in Software Development at Brigham Young University–Idaho.
 * - 💻 I can help you with **Software and Web development**, **databases**, and **software testing**.
   
 ## Technologies and Tools
